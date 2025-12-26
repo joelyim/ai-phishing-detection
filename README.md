@@ -4,7 +4,7 @@ AI-powered phishing detection system using machine learning to classify phishing
 
 ## 📄 Research Paper
 
-[**Read the Full Research Paper (PDF)**]([./Project.pdf](https://github.com/joelyim/ai-phishing-detection/blob/main/Project%20(1).pdf))
+[**Read the Full Research Paper (PDF)**](./Project%20(1).pdf)
 
 **Authors:** Joel Yim, Jason Xu  
 **Institution:** University of Washington
