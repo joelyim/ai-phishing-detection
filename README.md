@@ -11,7 +11,7 @@ AI-powered phishing detection system using machine learning to classify phishing
 
 **Abstract:** Phishing attacks remain one of the biggest Cybersecurity threats, using manipulative tactics to obtain confidential information. This research evaluates AI-based phishing detection techniques including Machine Learning, Deep Learning, and Natural Language Processing models, exploring their advantages and limitations.
 
-## 🎯 Project Overview
+## Project Overview
 
 Modern anti-phishing tools struggle to detect hyper-personalized AI-powered phishing techniques that bypass traditional email filters and blocklists. This project implements and analyzes various AI-based detection approaches to combat evolving phishing threats.
 
@@ -24,7 +24,7 @@ Modern anti-phishing tools struggle to detect hyper-personalized AI-powered phis
 - **Hybrid Approach**: Research into combining ML, DL, and NLP with human oversight
 - **Automated Processing**: Error handling and data preprocessing automation
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python**: Core programming language
 - **Flask**: Web framework for the detection interface
@@ -38,7 +38,7 @@ Modern anti-phishing tools struggle to detect hyper-personalized AI-powered phis
 - **Deep Learning**: Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Transformers
 - **NLP**: BERT (Bidirectional Encoder Representations from Transformers)
 
-## 📊 Key Findings
+## Key Findings
 
 Our research compared various detection approaches and found:
 
@@ -47,7 +47,7 @@ Our research compared various detection approaches and found:
 - **Traditional ML Models**: Demonstrated 85-97.6% accuracy with moderate scalability
 - **False Positive Management**: Critical challenge requiring reinforcement learning approaches
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -76,7 +76,7 @@ python app.py
 # Access the web interface at http://localhost:5000
 ```
 
-## 📈 Future Improvements
+## Future Improvements
 
 - Enhanced user interface for improved user experience
 - Integration of additional ML detection methods
@@ -84,14 +84,6 @@ python app.py
 - Adversarial training to counter AI-generated phishing
 - Real-time detection with low-latency AI models
 - Cloud-based solutions for scalability
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 👥 Authors
 
